@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937279340907",
+    "firebase_url": "https://covid-19-malaysia-default-rtdb.firebaseio.com",
+    "project_id": "covid-19-malaysia",
+    "storage_bucket": "covid-19-malaysia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937279340907:android:c6198fea29f9cd59b98c2e",
+        "android_client_info": {
+          "package_name": "com.example.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937279340907-u22ioidc66tebnf7mb9jbacps01h4fcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmhsrfg7qLJFTyTHyFJtrrTwqIJLhuzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937279340907-u22ioidc66tebnf7mb9jbacps01h4fcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

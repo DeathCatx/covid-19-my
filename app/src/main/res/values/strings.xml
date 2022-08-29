@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="cases">Cases</string>
+    <string name="infections">Infections</string>
+    <string name="active">Active</string>
+    <string name="recovers">Recovers</string>
+    <string name="deaths">Deaths</string>
+    <string name="covid_19">COVID-19</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_setting">Setting</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="back_button">Back Button</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="updateDesc">The data will be automatically updated whenever the latest data is available in database.</string>
+    <string name="pushDesc">Receive notifications of COVID-19 cases updates.</string>
+    <string name="darkDesc">Reduces the light emitted by device screens while maintaining the minimum colour contrast ratios required for readability</string>
+    <string name="auto_update">Auto Update</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="global">Global</string>
+    <string name="charts">Charts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="area_chart">Monthly Statistics</string>
+    <string name="states">Cases between States</string>
+    <string name="histogram">Cases Today</string>
+    <string name="geo_chart">geoChart</string>
+    <string name="cards">Loading…</string>
+    <string name="today">(+%1$s Today)</string>
+    <string name="todayLoading">(Loading…)</string>
+    <string name="title">Malaysia</string>
+    <string name="last_date">Last Updated: %1$s</string>
+    <string name="child">Child : %1$s</string>
+    <string name="adolescent">Adolescent : %1$s</string>
+    <string name="adult">Adult : %1$s</string>
+    <string name="elderly">Elderly : %1$s</string>
+    <string name="brought_in_death">Brought in Death : %1$s</string>
+    <string name="msg_token_fmt">%1$s</string>
+    <string name="ok">Restart</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirmation_title">Dark/Light Mode</string>
+    <string name="confirmation_msg">The app will be restarted to make changes</string>
+    <string name="about">This project is designed with the goal to keep track and display the status of COVID-19 outbreaks across Malaysia\'s states on the mobile platform.</string>
+    <string name="acknowledgement">The data and icons are provided by the Ministry of Health Malaysia and Flaticon respectively.</string>
+    <string name="aboutTitle">About</string>
+    <string name="error">Error</string>
+    <string name="blank" />
+</resources>
